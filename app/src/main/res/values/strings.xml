@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoCallingApp</string>
+    <string name="web_client_id">205966969338-jjbutjlmqjndukiajl5odcberc1456re.apps.googleusercontent.com</string>
+    <string name="IDS_SIGN_IN_WITH_GOOGLE">Sign in with Google</string>
+    <string name="IDS_USER_LIST">User List</string>
+    <string name="IDS_LIVE">Live</string>
+    <string name="IDS_FAB">FAB</string>
+    <string name="IDS_LAST_LOGIN">Last login</string>
+    <string name="IDS_FEATURE_COMING">Feature coming</string>
+</resources>
